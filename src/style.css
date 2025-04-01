@@ -1,0 +1,78 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+body {
+  background-color: black;
+}
+.postcard {
+  width: 20rem;
+  margin: auto;
+  margin-top: 10rem;
+  padding: 0.5rem;
+  background-color: white;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.alinear {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.datos {
+  font-size: 0.8rem;
+}
+
+.ri-html5-fill {
+  font-size: 1.6rem;
+  padding-right: 0.3rem;
+}
+
+.ri-more-2-fill {
+  font-size: 1.6rem;
+}
+
+.datos h2 {
+  font-size: 0.9rem;
+}
+.image img {
+  position: relative;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 100%;
+  height: 50%;
+}
+
+.iconos {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.iconos button {
+  all: unset;
+}
+.conteo {
+  display: flex;
+  gap: 0.2rem;
+}
+.conteo p {
+  font-size: 0.79rem;
+}
+
+.conteo h3 {
+  font-size: 0.79rem;
+}
+
+.texto {
+  padding-top: 0.5rem;
+  font-size: 0.8rem;
+}

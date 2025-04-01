@@ -1,0 +1,127 @@
+{
+    "config": {
+        "port": 3000,
+        "os": "win32",
+        "editor": {
+            "mode": "extension",
+            "agent": "vscode",
+            "version": "5.0.121"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "http://localhost:3000",
+        "contact": "https://github.com/learnpack/learnpack/issues/new",
+        "language": "auto",
+        "autoPlay": true,
+        "projectType": "template",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "disabledActions": [],
+        "actions": [],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "suggestions": {
+            "agent": null
+        },
+        "warnings": {
+            "agent": null
+        },
+        "title": {
+            "en": "HTML/CSS Starter Template for beginners",
+            "es": "Plantilla Inicial de HTML/CSS para principiantes"
+        },
+        "description": {
+            "en": "This is a starter template for HTML/CSS projects. It includes a basic folder structure, a sample HTML file, and a CSS file to kickstart your project.",
+            "es": "Esta es una plantilla inicial para proyectos de HTML/CSS. Incluye una estructura básica de carpetas, un archivo HTML de ejemplo y un archivo CSS para iniciar tu proyecto."
+        },
+        "repository": "https://github.com/yourusername/html-css-starter-template",
+        "preview": "https://repository-images.githubusercontent.com/183094552/ef3d4980-78e0-11ea-8f81-31089e626628",
+        "difficulty": "beginner",
+        "technologies": [
+            "HTML",
+            "CSS"
+        ],
+        "translations": []
+    },
+    "address": "http://localhost:3000",
+    "currentExercise": null,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "images",
+            "slug": "images",
+            "translations": {},
+            "language": null,
+            "entry": null,
+            "title": "images",
+            "graded": false,
+            "files": [
+                {
+                    "path": "images/photo1.jpg",
+                    "name": "photo1.jpg",
+                    "hidden": true
+                },
+                {
+                    "path": "images/photo2.jpg",
+                    "name": "photo2.jpg",
+                    "hidden": true
+                },
+                {
+                    "path": "images/photo3.jpg",
+                    "name": "photo3.jpg",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess V.1.pdf",
+                    "name": "[JM-T] Torture Princess V.1.pdf",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess Vol 5.pdf",
+                    "name": "[JM-T] Torture Princess Vol 5.pdf",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess Vol 6.pdf",
+                    "name": "[JM-T] Torture Princess Vol 6.pdf",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess Volumen 2.pdf",
+                    "name": "[JM-T] Torture Princess Volumen 2.pdf",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess Volumen 3.pdf",
+                    "name": "[JM-T] Torture Princess Volumen 3.pdf",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess Volumen 4.pdf",
+                    "name": "[JM-T] Torture Princess Volumen 4.pdf",
+                    "hidden": true
+                },
+                {
+                    "path": "images/[JM-T] Torture Princess Volumen 7.pdf",
+                    "name": "[JM-T] Torture Princess Volumen 7.pdf",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ],
+    "bugsLink": null,
+    "videoSolutions": false,
+    "localhostOnly": false,
+    "session": 3765617365690388000
+}
