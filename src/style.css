@@ -7,17 +7,20 @@ body {
   background-color: black;
 }
 .postcard {
-  width: 20rem;
+  width: 21rem;
   margin: auto;
   margin-top: 10rem;
-  padding: 0.5rem;
   background-color: white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .top {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .alinear {
@@ -55,6 +58,8 @@ body {
   justify-content: space-between;
   padding-bottom: 1rem;
   font-size: 1.4rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .iconos button {
@@ -63,6 +68,8 @@ body {
 .conteo {
   display: flex;
   gap: 0.2rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 .conteo p {
   font-size: 0.79rem;
@@ -75,4 +82,6 @@ body {
 .texto {
   padding-top: 0.5rem;
   font-size: 0.8rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
